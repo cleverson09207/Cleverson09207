@@ -5,6 +5,7 @@ Eu sou o Cleverson Oliveira, sou um programador front end, atualmente estou apre
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"  alt="css-logo" />
+<img src="https://img.shields.io/badge/JavaScript-239120?&style=for-the-badge&logo=JavaScript&logoColor=white"  alt="JavaScript-logo" />
 
 
 [![Cleverson stats](https://github-readme-stats.vercel.app/api?username=Cleverson09207)](https://github.com/anuraghazra/github-readme-stats)
